@@ -7,4 +7,4 @@ Along with that, there are custom tags for the components!
 
 ## Notes
 
-Node polyfills for fs are from [my repository superfills](https://github.com/mooocow123/superfills).
+Node polyfills for fs are from my repository [superfills](https://github.com/mooocow123/superfills).
